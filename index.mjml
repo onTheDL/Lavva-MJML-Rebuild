@@ -1,0 +1,45 @@
+<mjml>
+  <mj-head>
+
+    <!-- background colours -->
+    <mj-attributes>
+      <mj-class name="dark-green" background-color="#006853" />
+      <mj-class name="light-green" background-color="#E2FEEF" />
+      <mj-class name="cream" background-color="#F7F2ED" />
+
+      <!-- Font styles -->
+      <mj-class name="h-1" font-size="28px" line-height="33px" font-weight="bold" />
+      <mj-class name="h-2" font-size="24px" line-height="29px" font-weight="bold" />
+      <mj-class name="h-3" font-size="18px" line-height="21px" font-weight="bold" />
+      <mj-class name="p-1" font-size="16px" line-height="19px" />
+      <mj-class name="p-2" font-size="14px" line-height="19px" />
+
+      <!-- MJML Attributes -->
+      <mj-text font-family="Helvetica, Arial" color="#006853" padding="0" />
+      <mj-button background-color="#006853" color="#FFFFFF" font-size="12px" line-height="15px" font-weight="bold" border-radius="45px" inner-padding="18px" padding="0" />
+      <mj-image padding="0" />
+      <mj-divider border-color="#006853" border-width="1px" padding="30px 18px 30px 18px" />
+      <mj-section padding="0" background-color="#E2FEEF" />
+
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#FFFFFF">
+    <!-- Hero Image -->
+
+
+    <!-- Message Section -->
+
+
+    <!-- divider -->
+
+
+    <!-- recipe granola -->
+
+
+    <!-- waves image -->
+
+
+    <!-- All flavours section -->
+
+  </mj-body>
+</mjml>
