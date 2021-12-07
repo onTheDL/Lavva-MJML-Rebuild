@@ -25,16 +25,68 @@
   </mj-head>
   <mj-body background-color="#FFFFFF">
     <!-- Hero Image -->
-
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://klaver.design/lavva/hero.png" alt="Lavva" />
+      </mj-column>
+    </mj-section>
 
     <!-- Message Section -->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="h-1" align="center">
+          Can't find Lavva? We'll come to you.
+        </mj-text>
+        <mj-text mj-class="p-1" align="center" padding-top="12px" padding-bottom="20px">
+          We love making Lavva part of our everyday — and hope you do too. If you're only eating your Lavva with a spoon, we think you're missing out (although that's great too). Scroll for some of our very favorite recipes — enjoy!
+        </mj-text>
+        <mj-image src="https://klaver.design/lavva/message.png" alt="Box full of Lavva" />
 
+        <mj-text mj-class="h-2" align="center" padding-top="20px" padding-bottom="20px">
+          <span style="font-weight:400;">Just for today, use code</span> TAKEMEHOME <br />
+          <span style="font-weight:400;">at checkout for</span> free shipping.
+        </mj-text>
+
+        <mj-button>
+          SHOP NOW
+        </mj-button>
+      </mj-column>
+    </mj-section>
 
     <!-- divider -->
-
+    <mj-section>
+      <mj-column>
+        <mj-divider />
+      </mj-column>
+    </mj-section>
 
     <!-- recipe granola -->
+    <mj-section padding-bottom="35px" padding-left="18px" padding-right="18px">
+      <mj-column>
+        <mj-text mj-class="h-2" align="center">
+          Looking for more ways to love Lavva? ❤️
+        </mj-text>
+      </mj-column>
+    </mj-section>
 
+    <mj-section padding="0px 18px 0px 18px">
+      <mj-column>
+        <mj-raw>
+          <img width="100%" src="https://klaver.design/lavva/granola.png" alt="Bowl full of granola and lavva" />
+        </mj-raw>
+      </mj-column>
+      <mj-column>
+        <mj-text mj-class="h-2" css-class="recipe-heading">
+          Date Granola
+        </mj-text>
+        <mj-text mj-class="p-2" padding-top="12px" padding-bottom="12px">
+          Antioxidant-rich dates add natural sweetness to this simple granola recipe.
+        </mj-text>
+        <mj-button align="left">
+          SEE RECIPE
+        </mj-button>
+      </mj-column>
+    </mj-section>
 
     <!-- waves image -->
 
